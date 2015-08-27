@@ -2,12 +2,12 @@
 // @name        RedBots
 // @namespace   RedBots
 // @include     http://agar.io/*
-// @version     1
+// @version     1.00
 // @grant       none
 // @author      youtube.com/RednelssPlay
 // ==/UserScript==
 
-var redBotsVersion = 1;
+var redBotsVersion = 1.00;
 
 //TODO: Team mode
 //      Detect when people are merging

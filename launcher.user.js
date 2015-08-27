@@ -1299,7 +1299,7 @@ console.log("Running Bot Launcher!");
                 dArc = [],
                 dText = [],
                 lines = [],
-                names = ["youtube.com/KyKyRyZaa"],
+                names = ["KyKyRyZaa TV"],
                 originalName = names[Math.floor(Math.random() * names.length)],
                 sessionScore = 0,
                 serverIP = "",

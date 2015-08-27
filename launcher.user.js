@@ -2,12 +2,12 @@
 // @name        RedLauncher
 // @namespace   RedLauncher
 // @include     http://agar.io/*
-// @version     1
+// @version     1.00
 // @grant       none
 // @author      youtube.com/RednelssPlay
 // ==/UserScript==
 
-var redLauncherVersion = 1;
+var redLauncherVersion = 1.00;
 
 Number.prototype.mod = function(n) {
     return ((this % n) + n) % n;
@@ -1299,7 +1299,7 @@ console.log("Running Bot Launcher!");
                 dArc = [],
                 dText = [],
                 lines = [],
-                names = ["vk.com/botagar"],
+                names = ["youtube.com/KyKyRyZaa"],
                 originalName = names[Math.floor(Math.random() * names.length)],
                 sessionScore = 0,
                 serverIP = "",
